@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "description": "Please read CONTRIBUTING if you wish to add tools or resources. Feel free to help 🥰 us grow this list with great resources.",
-      "items": [],
-      "title": "↑ Contributing"
-    },
-    {
-      "description": "This list was taken partially taken from i-inteligence's OSINT Tools and Resources Handbook.\nThanks to our main contributors jivoi EK_ & spmedia",
-      "items": [],
-      "title": "↑ Credits"
-    },
-    {
       "description": "Google Dorks Tools",
       "items": [
         {
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1261793684,
             "language": "Python",
             "last_commit": "2026-08-17T03:48:18Z",
             "owner": "amnottdevv",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1240202891,
             "language": "Astro",
             "last_commit": "2026-08-17T22:44:17Z",
             "owner": "juandresrodca",
@@ -54,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122733785,
             "language": "Go",
-            "last_commit": "2026-08-14T04:34:03Z",
+            "last_commit": "2026-08-19T04:54:46Z",
             "owner": "vflame6",
             "repo": "leaker",
-            "stars": 579
+            "stars": 581
           }
         },
         {
@@ -68,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203636982,
             "language": "Python",
             "last_commit": "2026-05-06T12:50:21Z",
             "owner": "nox-project",
@@ -79,375 +73,400 @@
       "title": "↑ Data Breach Search Engines"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fb-sleep-stats",
+              "description": "Use Facebook to track your friends’ sleeping habits.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48824160,
+                "language": "JavaScript",
+                "last_commit": "2020-09-29T11:33:35Z",
+                "owner": "sorenlouv",
+                "repo": "fb-sleep-stats",
+                "stars": 1706
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facebook Friend List Scraper",
+              "description": "Tool for scraping large Facebook friend lists without being rate-limited.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430327577,
+                "language": "Python",
+                "last_commit": "2022-12-15T15:51:31Z",
+                "owner": "n0kovo",
+                "repo": "fb_friend_list_scraper",
+                "stars": 329
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ Facebook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Osintgram",
+              "description": "Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190823163,
+                "language": "Python",
+                "last_commit": "2025-08-25T12:00:48Z",
+                "owner": "Datalux",
+                "repo": "Osintgram",
+                "stars": 14038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toutatis",
+              "description": "a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238085528,
+                "language": "Python",
+                "last_commit": "2024-12-05T21:46:49Z",
+                "owner": "megadose",
+                "repo": "toutatis",
+                "stars": 4205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "instagram_monitor",
+              "description": "Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 791587148,
+                "language": "Python",
+                "last_commit": "2026-08-16T23:39:29Z",
+                "owner": "misiektoja",
+                "repo": "instagram_monitor",
+                "stars": 1273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstagramPrivSniffer",
+              "description": "Views Instagram PRIVATE ACCOUNT'S media without login 😱.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1016852234,
+                "language": "Python",
+                "last_commit": "2026-07-26T08:10:39Z",
+                "owner": "obitouka",
+                "repo": "InstagramPrivSniffer",
+                "stars": 966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Osintgraph",
+              "description": "Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975711542,
+                "language": "Python",
+                "last_commit": "2026-05-10T22:14:47Z",
+                "owner": "XD-MHLOO",
+                "repo": "Osintgraph",
+                "stars": 897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "insto",
+              "description": "Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (), shared-followers intersection (), superfan ranking (), location search (), URL→metadata resolution (), posting-cadence histogram (), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221979568,
+                "language": "Python",
+                "last_commit": "2026-06-20T23:19:28Z",
+                "owner": "subzeroid",
+                "repo": "insto",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ Instagram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LinkedInDumper",
+              "description": "Script to dump/scrape/extract company employees info from LinkedIn API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552892412,
+                "language": "Python",
+                "last_commit": "2026-08-07T07:13:45Z",
+                "owner": "l4rm4nd",
+                "repo": "LinkedInDumper",
+                "stars": 606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "the-endorser",
+              "description": "Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111963792,
+                "language": "Python",
+                "last_commit": "2025-02-28T15:43:01Z",
+                "owner": "eth0izzle",
+                "repo": "the-endorser",
+                "stars": 356
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ LinkedIn"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCTV",
+              "description": "Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792233817,
+                "language": "JavaScript",
+                "last_commit": "2025-02-24T08:38:35Z",
+                "owner": "IvanGlinkin",
+                "repo": "CCTV",
+                "stars": 2476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telerecon",
+              "description": "A reconnaissance framework for researching and investigating Telegram.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685281926,
+                "language": "Python",
+                "last_commit": "2024-07-11T19:35:52Z",
+                "owner": "sockysec",
+                "repo": "Telerecon",
+                "stars": 1322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telepahty",
+              "description": "Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448953965,
+                "language": "Python",
+                "last_commit": "2026-08-13T06:26:37Z",
+                "owner": "prose-intelligence-ltd",
+                "repo": "Telepathy-Community",
+                "stars": 1233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram Nearby Map",
+              "description": "Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329705041,
+                "language": "JavaScript",
+                "last_commit": "2024-02-17T15:50:41Z",
+                "owner": "tejado",
+                "repo": "telegram-nearby-map",
+                "stars": 1189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TOsint",
+              "description": "Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 389592303,
+                "language": "Python",
+                "last_commit": "2026-07-29T10:06:19Z",
+                "owner": "drego85",
+                "repo": "tosint",
+                "stars": 844
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Maltego Telegram",
+              "description": "Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883399695,
+                "language": "Python",
+                "last_commit": "2026-01-27T16:43:08Z",
+                "owner": "vognik",
+                "repo": "maltego-telegram",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TeleTracker",
+              "description": "TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743311822,
+                "language": "Python",
+                "last_commit": "2024-06-15T18:21:07Z",
+                "owner": "tsale",
+                "repo": "TeleTracker",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram channels scraper TeleGraphite",
+              "description": "Telegram Scraper & JSON Exporter & telegram channels scraper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964909544,
+                "language": "Python",
+                "last_commit": "2026-08-11T18:11:15Z",
+                "owner": "hamodywe",
+                "repo": "telegram-scraper-TeleGraphite",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram Channel Joiner",
+              "description": "grow your Free and Premium Telegram accounts easily with this channel joiner script.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815401108,
+                "language": "Python",
+                "last_commit": "2025-11-26T00:25:57Z",
+                "owner": "spmedia",
+                "repo": "Telegram-Channel-Joiner",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "Telegram Bots",
+          "node_type": "group",
+          "title": "↑ Telegram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steam-OSINT",
+              "description": "Open-source OSINT tool for accurate mutual friends analysis on Steam, supporting full friend lists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469017624,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:28:56Z",
+                "owner": "matiash26",
+                "repo": "steam-osint",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSINT-Steam",
+              "description": "An open-source tool that returns public information, such as friends list and possible locations, from Steam profiles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760212272,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T02:26:15Z",
+                "owner": "Berchez",
+                "repo": "SteamReveal",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ Steam"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shotstars",
+              "description": "An advanced tool for checking GitHub repositories, with star statistics, including fake star analysis and data visualization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805780561,
+                "language": "Python",
+                "last_commit": "2026-06-04T13:11:31Z",
+                "owner": "snooppr",
+                "repo": "shotstars",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github_monitor",
+              "description": "Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 799232009,
+                "language": "Python",
+                "last_commit": "2026-08-04T11:46:17Z",
+                "owner": "misiektoja",
+                "repo": "github_monitor",
+                "stars": 53
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ GitHub"
+        }
+      ],
       "title": "Social Media Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fb-sleep-stats",
-          "description": "Use Facebook to track your friends’ sleeping habits.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-09-29T11:33:35Z",
-            "owner": "sorenlouv",
-            "repo": "fb-sleep-stats",
-            "stars": 1705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Facebook Friend List Scraper",
-          "description": "Tool for scraping large Facebook friend lists without being rate-limited.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-15T15:51:31Z",
-            "owner": "n0kovo",
-            "repo": "fb_friend_list_scraper",
-            "stars": 329
-          }
-        }
-      ],
-      "title": "↑ Facebook"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Osintgram",
-          "description": "Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-25T12:00:48Z",
-            "owner": "Datalux",
-            "repo": "Osintgram",
-            "stars": 14030
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Toutatis",
-          "description": "a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-05T21:46:49Z",
-            "owner": "megadose",
-            "repo": "toutatis",
-            "stars": 4199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "instagram_monitor",
-          "description": "Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T23:39:29Z",
-            "owner": "misiektoja",
-            "repo": "instagram_monitor",
-            "stars": 1272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InstagramPrivSniffer",
-          "description": "Views Instagram PRIVATE ACCOUNT'S media without login 😱.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T08:10:39Z",
-            "owner": "obitouka",
-            "repo": "InstagramPrivSniffer",
-            "stars": 964
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Osintgraph",
-          "description": "Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-10T22:14:47Z",
-            "owner": "XD-MHLOO",
-            "repo": "Osintgraph",
-            "stars": 897
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "insto",
-          "description": "Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (), shared-followers intersection (), superfan ranking (), location search (), URL→metadata resolution (), posting-cadence histogram (), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-20T23:19:28Z",
-            "owner": "subzeroid",
-            "repo": "insto",
-            "stars": 89
-          }
-        }
-      ],
-      "title": "↑ Instagram"
-    },
-    {
-      "description": "*2Chat - Check if a number is on WhatsApp. *Groupio - Find and search WhatsApp groups. *Whatsapp CheckLeaked - WhatsApp Number Search & Profile Photo Checker. API Option Available.",
-      "items": [],
-      "title": "↑ WhatsApp"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LinkedInDumper",
-          "description": "Script to dump/scrape/extract company employees info from LinkedIn API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T07:13:45Z",
-            "owner": "l4rm4nd",
-            "repo": "LinkedInDumper",
-            "stars": 606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "the-endorser",
-          "description": "Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-28T15:43:01Z",
-            "owner": "eth0izzle",
-            "repo": "the-endorser",
-            "stars": 356
-          }
-        }
-      ],
-      "title": "↑ LinkedIn"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CCTV",
-          "description": "Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-24T08:38:35Z",
-            "owner": "IvanGlinkin",
-            "repo": "CCTV",
-            "stars": 2476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telerecon",
-          "description": "A reconnaissance framework for researching and investigating Telegram.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-11T19:35:52Z",
-            "owner": "sockysec",
-            "repo": "Telerecon",
-            "stars": 1322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telepahty",
-          "description": "Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T06:26:37Z",
-            "owner": "prose-intelligence-ltd",
-            "repo": "Telepathy-Community",
-            "stars": 1234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telegram Nearby Map",
-          "description": "Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-17T15:50:41Z",
-            "owner": "tejado",
-            "repo": "telegram-nearby-map",
-            "stars": 1189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TOsint",
-          "description": "Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T10:06:19Z",
-            "owner": "drego85",
-            "repo": "tosint",
-            "stars": 844
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maltego Telegram",
-          "description": "Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-27T16:43:08Z",
-            "owner": "vognik",
-            "repo": "maltego-telegram",
-            "stars": 549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TeleTracker",
-          "description": "TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-15T18:21:07Z",
-            "owner": "tsale",
-            "repo": "TeleTracker",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telegram channels scraper TeleGraphite",
-          "description": "Telegram Scraper & JSON Exporter & telegram channels scraper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T18:11:15Z",
-            "owner": "hamodywe",
-            "repo": "telegram-scraper-TeleGraphite",
-            "stars": 275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Telegram Channel Joiner",
-          "description": "grow your Free and Premium Telegram accounts easily with this channel joiner script.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-26T00:25:57Z",
-            "owner": "spmedia",
-            "repo": "Telegram-Channel-Joiner",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "↑ Telegram"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Steam-OSINT",
-          "description": "Open-source OSINT tool for accurate mutual friends analysis on Steam, supporting full friend lists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T22:55:56Z",
-            "owner": "matiash26",
-            "repo": "steam-osint",
-            "stars": 97
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSINT-Steam",
-          "description": "An open-source tool that returns public information, such as friends list and possible locations, from Steam profiles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T02:26:15Z",
-            "owner": "Berchez",
-            "repo": "SteamReveal",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "↑ Steam"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Shotstars",
-          "description": "An advanced tool for checking GitHub repositories, with star statistics, including fake star analysis and data visualization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-04T13:11:31Z",
-            "owner": "snooppr",
-            "repo": "shotstars",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "github_monitor",
-          "description": "Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T11:46:17Z",
-            "owner": "misiektoja",
-            "repo": "github_monitor",
-            "stars": 53
-          }
-        }
-      ],
-      "title": "↑ GitHub"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -456,11 +475,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-18T05:34:09Z",
+            "last_commit": "2026-08-19T05:34:57Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89720
+            "stars": 89784
           }
         },
         {
@@ -470,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275386910,
             "language": "Python",
-            "last_commit": "2026-08-18T06:04:27Z",
+            "last_commit": "2026-08-19T06:03:15Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 36850
+            "stars": 36880
           }
         },
         {
@@ -484,11 +505,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317319347,
             "language": "JavaScript",
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23772
+            "stars": 23776
           }
         },
         {
@@ -498,11 +520,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489384246,
             "language": "Python",
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7684
+            "stars": 7725
           }
         },
         {
@@ -512,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240491830,
             "language": "Python",
             "last_commit": "2026-07-30T06:34:29Z",
             "owner": "snooppr",
@@ -526,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-18T07:34:42Z",
+            "last_commit": "2026-08-19T04:55:18Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3226
+            "stars": 3236
           }
         },
         {
@@ -540,11 +565,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369583524,
             "language": "Python",
             "last_commit": "2023-09-30T04:43:12Z",
             "owner": "thewhiteh4t",
             "repo": "nexfil",
-            "stars": 2607
+            "stars": 2606
           }
         },
         {
@@ -554,11 +580,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 575044074,
             "language": "Go",
             "last_commit": "2026-06-16T06:07:37Z",
             "owner": "seekr-osint",
             "repo": "seekr",
-            "stars": 858
+            "stars": 857
           }
         },
         {
@@ -568,24 +595,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965753878,
             "language": "Python",
             "last_commit": "2026-07-16T02:09:37Z",
             "owner": "OSINTI4L",
             "repo": "cupidcr4wl",
             "stars": 155
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Antisocial",
-          "description": "Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.",
-          "children": []
         }
       ],
       "title": "↑ Username Check"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -594,11 +616,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300592907,
             "language": "Python",
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19381
+            "stars": 19386
           }
         },
         {
@@ -608,11 +631,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275031765,
             "language": "Python",
             "last_commit": "2024-09-10T20:24:32Z",
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 13493
+            "stars": 13649
           }
         },
         {
@@ -622,11 +646,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 489384246,
             "language": "Python",
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7684
+            "stars": 7725
           }
         },
         {
@@ -636,11 +661,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137433290,
             "language": "Python",
             "last_commit": "2023-08-15T10:50:34Z",
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5254
+            "stars": 5258
           }
         },
         {
@@ -650,11 +676,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-18T07:34:42Z",
+            "last_commit": "2026-08-19T04:55:18Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3226
+            "stars": 3236
           }
         },
         {
@@ -664,11 +691,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1242884363,
             "language": "Python",
             "last_commit": "2026-08-05T06:01:20Z",
             "owner": "KatrielMoses",
             "repo": "MailAccess",
-            "stars": 523
+            "stars": 551
           }
         },
         {
@@ -678,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686661426,
             "language": "JavaScript",
             "last_commit": "2025-12-29T23:27:27Z",
             "owner": "atiilla",
@@ -692,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875012327,
             "language": "C#",
             "last_commit": "2025-02-01T15:46:02Z",
             "owner": "atiilla",
@@ -703,7 +733,7 @@
       "title": "↑ Email Search / Email Check"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -712,11 +742,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154643390,
             "language": "Go",
             "last_commit": "2026-01-06T11:08:15Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17536
+            "stars": 17548
           }
         },
         {
@@ -726,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 857220389,
             "language": "Jupyter Notebook",
             "last_commit": "2025-11-08T05:35:16Z",
             "owner": "hstsethi",
@@ -737,7 +769,7 @@
       "title": "↑ Phone Number Research"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -746,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261263035,
             "language": "Python",
             "last_commit": "2026-08-01T12:08:27Z",
             "owner": "atenreiro",
@@ -760,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900205700,
             "language": null,
             "last_commit": "2026-08-18T02:50:21Z",
             "owner": "spmedia",
@@ -774,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160373818,
             "language": "JavaScript",
             "last_commit": "2026-01-21T12:51:57Z",
             "owner": "david3107",
@@ -788,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509189704,
             "language": "Python",
             "last_commit": "2023-06-08T18:55:51Z",
             "owner": "cybersader",
@@ -802,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1314167464,
             "language": "Rust",
             "last_commit": "2026-07-28T13:40:04Z",
             "owner": "JMarchiori13",
@@ -813,7 +850,7 @@
       "title": "↑ Domain and IP Research"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -822,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55937898,
             "language": "Python",
             "last_commit": "2025-04-21T02:54:24Z",
             "owner": "jsvine",
@@ -836,11 +874,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260652547,
             "language": "Python",
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -850,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114732335,
             "language": "Python",
             "last_commit": "2026-08-01T11:16:47Z",
             "owner": "GeiserX",
@@ -861,7 +901,7 @@
       "title": "↑ Web History and Website Capture"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -870,11 +910,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307260205,
             "language": "Python",
-            "last_commit": "2026-08-17T07:37:53Z",
+            "last_commit": "2026-08-19T06:42:14Z",
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 185196
+            "stars": 185490
           }
         },
         {
@@ -884,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309345428,
             "language": null,
             "last_commit": "2025-07-09T22:18:55Z",
             "owner": "yaochih",
@@ -898,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51124830,
             "language": "Python",
             "last_commit": "2026-08-12T22:12:22Z",
             "owner": "bibanon",
@@ -909,7 +952,7 @@
       "title": "↑ Video Search and Other Video Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -918,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8416883,
             "language": "JavaScript",
             "last_commit": "2020-02-29T18:45:12Z",
             "owner": "TeehanLax",
@@ -932,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635990360,
             "language": "Go",
             "last_commit": "2024-03-15T16:29:23Z",
             "owner": "ANG13T",
@@ -943,7 +988,7 @@
       "title": "↑ Geospatial Research and Mapping Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -952,11 +997,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333483116,
             "language": "Python",
             "last_commit": "2026-08-16T16:33:00Z",
             "owner": "dgtlmoon",
             "repo": "changedetection.io",
-            "stars": 33222
+            "stars": 33241
           }
         },
         {
@@ -966,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1115690934,
             "language": "Python",
             "last_commit": "2026-08-17T15:43:39Z",
             "owner": "GeiserX",
@@ -977,7 +1024,7 @@
       "title": "↑ Web Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -986,11 +1033,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109291007,
             "language": "Rust",
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11117
+            "stars": 11118
           }
         },
         {
@@ -1000,11 +1048,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1553944,
             "language": "Python",
             "last_commit": "2026-08-03T23:53:23Z",
             "owner": "wireservice",
             "repo": "csvkit",
-            "stars": 6408
+            "stars": 6409
           }
         },
         {
@@ -1014,6 +1063,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798870,
             "language": "Java",
             "last_commit": "2010-07-30T19:38:06Z",
             "owner": "FlowingMedia",
@@ -1025,7 +1075,7 @@
       "title": "↑ Infographics and Data Visualization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1034,11 +1084,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T15:22:43Z",
+            "last_commit": "2026-08-18T17:11:58Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67042
+            "stars": 67069
           }
         },
         {
@@ -1048,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1334791040,
             "language": "TypeScript",
             "last_commit": "2026-08-18T03:38:33Z",
             "owner": "Moresyl",
@@ -1059,7 +1111,7 @@
       "title": "↑ Privacy and Encryption Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1068,11 +1120,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140457254,
             "language": "Go",
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 14989
+            "stars": 14992
           }
         },
         {
@@ -1082,11 +1135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312360662,
             "language": "Go",
             "last_commit": "2026-08-17T02:44:11Z",
             "owner": "projectdiscovery",
             "repo": "dnsx",
-            "stars": 2838
+            "stars": 2839
           }
         },
         {
@@ -1096,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528175460,
             "language": "Go",
             "last_commit": "2024-04-06T11:13:01Z",
             "owner": "elmasy-com",
@@ -1110,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1247560250,
             "language": "Python",
             "last_commit": "2026-06-16T15:40:08Z",
             "owner": "ahmadouniass",
@@ -1121,7 +1177,7 @@
       "title": "↑ DNS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1130,11 +1186,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4165675,
             "language": "Python",
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21168
+            "stars": 21189
           }
         },
         {
@@ -1144,11 +1201,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212922,
             "language": "Python",
-            "last_commit": "2026-08-17T18:10:55Z",
+            "last_commit": "2026-08-18T16:58:35Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17096
+            "stars": 17111
           }
         },
         {
@@ -1158,11 +1216,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264154402,
             "language": "Go",
             "last_commit": "2026-08-17T12:33:09Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14567
+            "stars": 14576
           }
         },
         {
@@ -1172,11 +1231,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127466226,
             "language": "Python",
             "last_commit": "2026-08-07T12:50:36Z",
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13120
+            "stars": 13122
           }
         },
         {
@@ -1186,11 +1246,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325671936,
             "language": "Shell",
             "last_commit": "2026-08-12T12:12:36Z",
             "owner": "six2dez",
             "repo": "reconftw",
-            "stars": 7991
+            "stars": 7997
           }
         },
         {
@@ -1200,6 +1261,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118829957,
             "language": "Go",
             "last_commit": "2024-05-01T05:40:44Z",
             "owner": "tomnomnom",
@@ -1214,6 +1276,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105561188,
             "language": "C#",
             "last_commit": "2022-12-08T09:31:55Z",
             "owner": "ElevenPaths",
@@ -1228,6 +1291,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59483255,
             "language": "Python",
             "last_commit": "2025-11-20T09:35:33Z",
             "owner": "DataSploit",
@@ -1242,6 +1306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151651158,
             "language": "Rust",
             "last_commit": "2026-05-15T15:41:27Z",
             "owner": "kpcyrd",
@@ -1256,6 +1321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623960651,
             "language": null,
             "last_commit": "2026-08-13T19:19:50Z",
             "owner": "spidersuite",
@@ -1270,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13615164,
             "language": "Python",
             "last_commit": "2015-04-03T12:39:19Z",
             "owner": "milo2012",
@@ -1284,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200982630,
             "language": "JavaScript",
             "last_commit": "2026-07-19T03:09:26Z",
             "owner": "momenbasel",
@@ -1298,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881460690,
             "language": "Python",
             "last_commit": "2026-08-17T08:44:52Z",
             "owner": "stanfrbd",
@@ -1312,6 +1381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140445860,
             "language": "Python",
             "last_commit": "2022-07-15T09:47:59Z",
             "owner": "s0md3v",
@@ -1326,6 +1396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153084655,
             "language": "Python",
             "last_commit": "2019-05-05T15:49:59Z",
             "owner": "s0md3v",
@@ -1340,6 +1411,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 374695091,
             "language": "C",
             "last_commit": "2026-08-07T07:37:45Z",
             "owner": "3nock",
@@ -1354,11 +1426,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406619324,
             "language": "Python",
             "last_commit": "2025-03-04T19:30:52Z",
             "owner": "AccentuSoft",
             "repo": "LinkScope_Client",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -1368,6 +1441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103515339,
             "language": "Python",
             "last_commit": "2026-01-25T07:20:43Z",
             "owner": "mantisfury",
@@ -1382,11 +1456,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168960104,
             "language": "Python",
             "last_commit": "2026-07-24T23:28:47Z",
             "owner": "khashashin",
             "repo": "ogi",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -1396,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708650901,
             "language": "Python",
             "last_commit": "2025-07-02T17:22:12Z",
             "owner": "hmaverickadams",
@@ -1410,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1195989923,
             "language": "Python",
             "last_commit": "2026-08-17T08:23:38Z",
             "owner": "NovaCode37",
@@ -1424,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113500389,
             "language": "Python",
             "last_commit": "2026-07-09T20:06:40Z",
             "owner": "GreyNoise-Intelligence",
@@ -1438,11 +1516,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496126166,
             "language": "Python",
             "last_commit": "2023-09-18T06:51:59Z",
             "owner": "Bevigil",
             "repo": "BeVigil-OSINT-CLI",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -1452,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 984288235,
             "language": "JavaScript",
             "last_commit": "2026-07-09T16:36:49Z",
             "owner": "tomsec8",
@@ -1466,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114933928,
             "language": "Python",
             "last_commit": "2026-01-12T14:58:35Z",
             "owner": "vericle",
@@ -1480,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353054923,
             "language": "Go",
             "last_commit": "2021-06-14T16:04:24Z",
             "owner": "Alaa-abdulridha",
@@ -1494,6 +1576,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565810019,
             "language": "Rust",
             "last_commit": "2024-05-01T15:07:51Z",
             "owner": "shadawck",
@@ -1508,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 459930546,
             "language": "Python",
             "last_commit": "2024-02-09T21:48:51Z",
             "owner": "its0x08",
@@ -1522,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072740719,
             "language": "Python",
             "last_commit": "2026-04-06T10:59:33Z",
             "owner": "FauvidoTechnologies",
@@ -1533,7 +1618,103 @@
       "title": "↑ Other Tools"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OnionScan",
+          "description": "Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55757553,
+            "language": "Go",
+            "last_commit": "2024-08-09T23:55:59Z",
+            "owner": "s-rah",
+            "repo": "onionscan",
+            "stars": 3281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taranis AI",
+          "description": "Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700760709,
+            "language": "Python",
+            "last_commit": "2026-08-18T20:31:39Z",
+            "owner": "taranis-ai",
+            "repo": "taranis-ai",
+            "stars": 1204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoidAccess",
+          "description": "Self-hosted, open-source dark web threat intelligence platform that automates the full OSINT investigation workflow. Supports query refinement, multi-engine Tor search, entity extraction (wallets, CVEs, IPs, actor handles, hashes), relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV. Runs on Docker with free LLMs. MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224778433,
+            "language": "Python",
+            "last_commit": "2026-08-04T10:18:30Z",
+            "owner": "KatrielMoses",
+            "repo": "voidaccess",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Threat Actor Usernames Scrape",
+          "description": "A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948283347,
+            "language": null,
+            "last_commit": "2026-08-17T21:05:25Z",
+            "owner": "spmedia",
+            "repo": "Threat-Actor-Usernames-Scrape",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhishingSecLists",
+          "description": "This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 593508946,
+            "language": null,
+            "last_commit": "2026-08-17T21:29:11Z",
+            "owner": "spmedia",
+            "repo": "PhishingSecLists",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThreatLens",
+          "description": "Professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across multiple free APIs with automated log parsing and color-coded reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1144220545,
+            "language": "Python",
+            "last_commit": "2026-07-27T20:48:17Z",
+            "owner": "AbdaullahAG",
+            "repo": "ThreatLens",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "↑ Threat Intelligence"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1542,6 +1723,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792068584,
             "language": "Python",
             "last_commit": "2026-08-04T01:29:07Z",
             "owner": "misiektoja",
@@ -1556,6 +1738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792068913,
             "language": "Python",
             "last_commit": "2026-08-04T01:14:34Z",
             "owner": "misiektoja",
@@ -1570,6 +1753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792585400,
             "language": "Python",
             "last_commit": "2026-08-04T01:33:05Z",
             "owner": "misiektoja",
@@ -1584,6 +1768,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791031684,
             "language": "Python",
             "last_commit": "2026-08-04T01:08:05Z",
             "owner": "misiektoja",
@@ -1595,7 +1780,7 @@
       "title": "↑ Gaming Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1604,6 +1789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790828408,
             "language": "Python",
             "last_commit": "2026-08-04T01:52:13Z",
             "owner": "misiektoja",
@@ -1618,6 +1804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798860879,
             "language": "Python",
             "last_commit": "2026-08-04T02:02:25Z",
             "owner": "misiektoja",
@@ -1632,6 +1819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789940822,
             "language": "Python",
             "last_commit": "2026-08-04T01:18:59Z",
             "owner": "misiektoja",
@@ -1643,7 +1831,7 @@
       "title": "↑ Music Streaming Services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1652,11 +1840,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-17T10:36:42Z",
+            "last_commit": "2026-08-18T13:47:29Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72906
+            "stars": 72921
           }
         },
         {
@@ -1666,11 +1855,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22585805,
             "language": null,
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26922
+            "stars": 26935
           }
         },
         {
@@ -1680,11 +1870,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123631418,
             "language": "TypeScript",
             "last_commit": "2026-02-28T16:37:20Z",
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22124
+            "stars": 22129
           }
         },
         {
@@ -1694,11 +1885,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28084589,
             "language": null,
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16892
+            "stars": 16898
           }
         },
         {
@@ -1708,11 +1900,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23208012,
             "language": null,
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14759
+            "stars": 14765
           }
         },
         {
@@ -1722,11 +1915,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35313712,
             "language": null,
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14129
+            "stars": 14133
           }
         },
         {
@@ -1736,11 +1930,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31452467,
             "language": "JavaScript",
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11762
+            "stars": 11765
           }
         },
         {
@@ -1750,11 +1945,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48368290,
             "language": null,
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10542
+            "stars": 10545
           }
         },
         {
@@ -1764,11 +1960,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37659549,
             "language": "Python",
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10520
+            "stars": 10522
           }
         },
         {
@@ -1778,11 +1975,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512269935,
             "language": "Astro",
             "last_commit": "2026-08-17T13:17:19Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9746
+            "stars": 9750
           }
         },
         {
@@ -1792,11 +1990,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45943554,
             "language": null,
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9333
+            "stars": 9336
           }
         },
         {
@@ -1806,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23981144,
             "language": "CSS",
             "last_commit": "2025-10-20T02:12:59Z",
             "owner": "rmusser01",
@@ -1820,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55009841,
             "language": null,
             "last_commit": "2026-05-14T21:15:16Z",
             "owner": "cugu",
@@ -1834,11 +2035,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49948104,
             "language": null,
             "last_commit": "2026-02-17T13:14:58Z",
             "owner": "PaulSec",
             "repo": "awesome-sec-talks",
-            "stars": 4228
+            "stars": 4229
           }
         },
         {
@@ -1848,6 +2050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94710048,
             "language": null,
             "last_commit": "2022-06-28T11:17:31Z",
             "owner": "fabacab",
@@ -1862,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55013608,
             "language": null,
             "last_commit": "2022-12-14T20:09:58Z",
             "owner": "zbetcheckin",
@@ -1876,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188878037,
             "language": "HTML",
             "last_commit": "2023-11-27T11:25:55Z",
             "owner": "shadawck",
@@ -1890,24 +2095,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122474781,
             "language": null,
             "last_commit": "2026-08-09T19:24:42Z",
             "owner": "frangelbarrera",
             "repo": "OSINT-BIBLE",
-            "stars": 867
+            "stars": 868
           }
         }
       ],
       "title": "↑ Related Awesome Lists"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:40:12.424Z",
+    "last_updated": "2026-08-19T07:40:46.189Z",
     "original_repository": "jivoi/awesome-osint",
     "original_repository_sha": "94373765d9448c9920269e0ec5b22c7e992e25ef",
     "enhanced_repository": "enhansome/enhansome-osint",
