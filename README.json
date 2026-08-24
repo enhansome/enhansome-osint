@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T22:44:17Z",
             "owner": "juandresrodca",
             "repo": "DorkCraft",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -73,8 +73,72 @@
       "title": "↑ Data Breach Search Engines"
     },
     {
+      "description": "Search for Threat actors and their associated information.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Threat Actor Usernames Scrape",
+          "description": "A collection of fresh intel and 900k+ threat actor usernames scraped from various cybercrime sources & forums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948283347,
+            "language": null,
+            "last_commit": "2026-08-22T17:48:07Z",
+            "owner": "spmedia",
+            "repo": "Threat-Actor-Usernames-Scrape",
+            "stars": 234
+          }
+        }
+      ],
+      "title": "↑ Threat Actor Search"
+    },
+    {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Oblivion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 317049980,
+            "language": "Python",
+            "last_commit": "2021-03-15T15:12:28Z",
+            "owner": "loseys",
+            "repo": "Oblivion",
+            "stars": 596
+          }
+        }
+      ],
+      "title": "↑ Real-Time Search, Social Media Search, and General Social Media Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TweetMap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221730447,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-18T01:49:19Z",
+                "owner": "cga-harvard",
+                "repo": "Data_Science_Big_Data_Projects",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "↑ Twitter"
+        },
         {
           "children": [
             {
@@ -126,7 +190,7 @@
                 "last_commit": "2025-08-25T12:00:48Z",
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14102
+                "stars": 14106
               }
             },
             {
@@ -141,7 +205,7 @@
                 "last_commit": "2024-12-05T21:46:49Z",
                 "owner": "megadose",
                 "repo": "toutatis",
-                "stars": 4230
+                "stars": 4231
               }
             },
             {
@@ -153,10 +217,10 @@
                 "archived": false,
                 "id": 791587148,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:39:32Z",
+                "last_commit": "2026-08-24T12:57:20Z",
                 "owner": "misiektoja",
                 "repo": "instagram_monitor",
-                "stars": 1280
+                "stars": 1282
               }
             },
             {
@@ -186,7 +250,7 @@
                 "last_commit": "2026-05-10T22:14:47Z",
                 "owner": "XD-MHLOO",
                 "repo": "Osintgraph",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -208,6 +272,28 @@
           "description": null,
           "node_type": "group",
           "title": "↑ Instagram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arctic Shift",
+              "description": "A tool for accessing and interacting with large dumps of Reddit data, offering an API and web interface for research and moderation purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674139399,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T21:15:23Z",
+                "owner": "ArthurHeitmann",
+                "repo": "arctic_shift",
+                "stars": 1427
+              }
+            }
+          ],
+          "description": "Tools to help discover more about a reddit user or subreddit.",
+          "node_type": "group",
+          "title": "↑ Reddit"
         },
         {
           "children": [
@@ -275,7 +361,7 @@
                 "last_commit": "2024-07-11T19:35:52Z",
                 "owner": "sockysec",
                 "repo": "Telerecon",
-                "stars": 1324
+                "stars": 1325
               }
             },
             {
@@ -480,7 +566,7 @@
             "last_commit": "2026-08-24T05:19:36Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90132
+            "stars": 90151
           }
         },
         {
@@ -492,10 +578,10 @@
             "archived": false,
             "id": 275386910,
             "language": "Python",
-            "last_commit": "2026-08-24T06:03:48Z",
+            "last_commit": "2026-08-24T13:05:03Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 36994
+            "stars": 37002
           }
         },
         {
@@ -510,7 +596,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23817
+            "stars": 23816
           }
         },
         {
@@ -525,7 +611,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7824
+            "stars": 7830
           }
         },
         {
@@ -552,10 +638,10 @@
             "archived": false,
             "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-23T05:28:51Z",
+            "last_commit": "2026-08-24T13:24:34Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3283
+            "stars": 3288
           }
         },
         {
@@ -636,7 +722,7 @@
             "last_commit": "2024-09-10T20:24:32Z",
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 14094
+            "stars": 14110
           }
         },
         {
@@ -651,7 +737,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7824
+            "stars": 7830
           }
         },
         {
@@ -666,7 +752,7 @@
             "last_commit": "2023-08-15T10:50:34Z",
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5270
+            "stars": 5271
           }
         },
         {
@@ -678,10 +764,10 @@
             "archived": false,
             "id": 1079089186,
             "language": "Python",
-            "last_commit": "2026-08-23T05:28:51Z",
+            "last_commit": "2026-08-24T13:24:34Z",
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 3283
+            "stars": 3288
           }
         },
         {
@@ -696,7 +782,7 @@
             "last_commit": "2026-08-05T06:01:20Z",
             "owner": "KatrielMoses",
             "repo": "MailAccess",
-            "stars": 653
+            "stars": 659
           }
         },
         {
@@ -747,7 +833,7 @@
             "last_commit": "2026-01-06T11:08:15Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17615
+            "stars": 17620
           }
         },
         {
@@ -840,10 +926,10 @@
             "archived": false,
             "id": 1336968795,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:05:11Z",
+            "last_commit": "2026-08-24T12:57:19Z",
             "owner": "WhiteBite",
             "repo": "Domain-Hunter",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -906,7 +992,7 @@
             "archived": false,
             "id": 1114732335,
             "language": "Python",
-            "last_commit": "2026-08-24T06:55:02Z",
+            "last_commit": "2026-08-24T11:44:22Z",
             "owner": "GeiserX",
             "repo": "Wayback-Archive",
             "stars": 29
@@ -914,6 +1000,69 @@
         }
       ],
       "title": "↑ Web History and Website Capture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "see the Awesome Translations list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264177826,
+            "language": null,
+            "last_commit": "2026-01-18T17:27:28Z",
+            "owner": "mbiesiad",
+            "repo": "awesome-translations",
+            "stars": 192
+          }
+        }
+      ],
+      "title": "↑ Language Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeoSpyer",
+          "description": "Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746780730,
+            "language": "HTML",
+            "last_commit": "2026-03-09T23:20:10Z",
+            "owner": "atiilla",
+            "repo": "GeoIntel",
+            "stars": 1128
+          }
+        }
+      ],
+      "title": "↑ Image Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ExifLooter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519515664,
+            "language": "Go",
+            "last_commit": "2026-01-16T16:34:17Z",
+            "owner": "aydinnyunus",
+            "repo": "exifLooter",
+            "stars": 496
+          }
+        }
+      ],
+      "title": "↑ Image Analysis"
     },
     {
       "description": null,
@@ -930,7 +1079,7 @@
             "last_commit": "2026-08-20T22:26:03Z",
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 186563
+            "stars": 186610
           }
         },
         {
@@ -981,7 +1130,7 @@
             "last_commit": "2020-02-29T18:45:12Z",
             "owner": "TeehanLax",
             "repo": "Hyperlapse.js",
-            "stars": 2461
+            "stars": 2462
           }
         },
         {
@@ -1014,10 +1163,10 @@
             "archived": false,
             "id": 333483116,
             "language": "Python",
-            "last_commit": "2026-08-21T00:24:55Z",
+            "last_commit": "2026-08-24T13:50:39Z",
             "owner": "dgtlmoon",
             "repo": "changedetection.io",
-            "stars": 33318
+            "stars": 33323
           }
         },
         {
@@ -1053,7 +1202,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11130
+            "stars": 11131
           }
         },
         {
@@ -1104,7 +1253,7 @@
             "last_commit": "2026-08-23T13:37:57Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67246
+            "stars": 67251
           }
         },
         {
@@ -1140,7 +1289,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15028
+            "stars": 15031
           }
         },
         {
@@ -1206,7 +1355,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21383
+            "stars": 21388
           }
         },
         {
@@ -1221,7 +1370,7 @@
             "last_commit": "2026-08-24T02:20:49Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17177
+            "stars": 17179
           }
         },
         {
@@ -1233,10 +1382,10 @@
             "archived": false,
             "id": 264154402,
             "language": "Go",
-            "last_commit": "2026-08-22T13:20:35Z",
+            "last_commit": "2026-08-24T12:22:42Z",
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 14633
+            "stars": 14635
           }
         },
         {
@@ -1251,7 +1400,7 @@
             "last_commit": "2026-08-07T12:50:36Z",
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13135
+            "stars": 13137
           }
         },
         {
@@ -1266,7 +1415,7 @@
             "last_commit": "2026-08-20T09:01:41Z",
             "owner": "six2dez",
             "repo": "reconftw",
-            "stars": 8019
+            "stars": 8020
           }
         },
         {
@@ -1281,7 +1430,7 @@
             "last_commit": "2024-05-01T05:40:44Z",
             "owner": "tomnomnom",
             "repo": "waybackurls",
-            "stars": 4541
+            "stars": 4543
           }
         },
         {
@@ -1383,7 +1532,7 @@
             "archived": false,
             "id": 881460690,
             "language": "Python",
-            "last_commit": "2026-08-17T08:44:52Z",
+            "last_commit": "2026-08-24T08:43:59Z",
             "owner": "stanfrbd",
             "repo": "cyberbro",
             "stars": 684
@@ -1647,7 +1796,7 @@
             "last_commit": "2024-08-09T23:55:59Z",
             "owner": "s-rah",
             "repo": "onionscan",
-            "stars": 3286
+            "stars": 3287
           }
         },
         {
@@ -1659,7 +1808,7 @@
             "archived": false,
             "id": 700760709,
             "language": "Python",
-            "last_commit": "2026-08-24T07:51:12Z",
+            "last_commit": "2026-08-24T12:10:24Z",
             "owner": "taranis-ai",
             "repo": "taranis-ai",
             "stars": 1203
@@ -1677,7 +1826,7 @@
             "last_commit": "2026-08-04T10:18:30Z",
             "owner": "KatrielMoses",
             "repo": "voidaccess",
-            "stars": 648
+            "stars": 649
           }
         },
         {
@@ -1692,7 +1841,7 @@
             "last_commit": "2026-08-22T17:48:07Z",
             "owner": "spmedia",
             "repo": "Threat-Actor-Usernames-Scrape",
-            "stars": 232
+            "stars": 234
           }
         },
         {
@@ -1857,10 +2006,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-23T11:08:38Z",
+            "last_commit": "2026-08-24T11:12:01Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73032
+            "stars": 73037
           }
         },
         {
@@ -1905,7 +2054,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16928
+            "stars": 16929
           }
         },
         {
@@ -1920,7 +2069,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -1935,7 +2084,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -1950,7 +2099,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11790
+            "stars": 11791
           }
         },
         {
@@ -1965,7 +2114,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10565
+            "stars": 10568
           }
         },
         {
@@ -1995,7 +2144,7 @@
             "last_commit": "2026-08-22T05:31:45Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9786
+            "stars": 9787
           }
         },
         {
@@ -2010,7 +2159,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -2040,7 +2189,7 @@
             "last_commit": "2026-08-23T09:53:20Z",
             "owner": "cugu",
             "repo": "awesome-forensics",
-            "stars": 5162
+            "stars": 5163
           }
         },
         {
@@ -2123,7 +2272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:59:14.983Z",
+    "last_updated": "2026-08-24T13:50:43.409Z",
     "original_repository": "jivoi/awesome-osint",
     "original_repository_id": 75189212,
     "original_repository_sha": "1bc585c96518e6c19cebcc435b56a1d6380762c3",
