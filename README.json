@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "amnottdevv",
             "repo": "AtDork",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "cyber-security",
               "dork",
@@ -158,7 +158,7 @@
             "id": 948283347,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T23:40:17Z",
+            "last_commit": "2026-10-03T05:05:33Z",
             "open_issues": 0,
             "owner": "spmedia",
             "repo": "Threat-Actor-Usernames-Scrape",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "Datalux",
                 "repo": "Osintgram",
-                "stars": 14751,
+                "stars": 14756,
                 "topics": [
                   "analysis",
                   "hacking",
@@ -372,10 +372,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2024-12-05T21:46:49Z",
-                "open_issues": 352,
+                "open_issues": 353,
                 "owner": "megadose",
                 "repo": "toutatis",
-                "stars": 4320,
+                "stars": 4321,
                 "topics": [
                   "information-gathering",
                   "instagram",
@@ -404,7 +404,7 @@
                 "open_issues": 1,
                 "owner": "misiektoja",
                 "repo": "instagram_monitor",
-                "stars": 1533,
+                "stars": 1534,
                 "topics": [
                   "anonymous",
                   "discord-webhook",
@@ -446,7 +446,7 @@
                 "open_issues": 5,
                 "owner": "obitouka",
                 "repo": "InstagramPrivSniffer",
-                "stars": 1038,
+                "stars": 1040,
                 "topics": [
                   "awesome",
                   "awesome-cli",
@@ -554,7 +554,7 @@
                 "open_issues": 14,
                 "owner": "ArthurHeitmann",
                 "repo": "arctic_shift",
-                "stars": 1596,
+                "stars": 1598,
                 "topics": [
                   "archived",
                   "pushshift",
@@ -750,7 +750,7 @@
                 "open_issues": 0,
                 "owner": "drego85",
                 "repo": "tosint",
-                "stars": 861,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:19:01.838Z"
@@ -1047,11 +1047,11 @@
             "id": 162998479,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:18:19Z",
+            "last_commit": "2026-10-03T05:16:49Z",
             "open_issues": 354,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93162,
+            "stars": 93172,
             "topics": [
               "cli",
               "cti",
@@ -1085,11 +1085,11 @@
             "id": 275386910,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:36:07Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-03T07:20:19Z",
+            "open_issues": 82,
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 38211,
+            "stars": 38217,
             "topics": [
               "cli",
               "cybersecurity",
@@ -1131,7 +1131,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24166,
+            "stars": 24169,
             "topics": [
               "analysis",
               "analyzer",
@@ -1172,7 +1172,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 8816,
+            "stars": 8821,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1198,7 +1198,7 @@
             "open_issues": 11,
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 5172,
+            "stars": 5188,
             "topics": [
               "cybersecurity",
               "cybersecurity-tools",
@@ -1384,7 +1384,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-04-10T02:29:16Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "mxrch",
             "repo": "GHunt",
             "stars": 19648,
@@ -1412,7 +1412,7 @@
             "open_issues": 118,
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 15068,
+            "stars": 15071,
             "topics": [
               "ebay",
               "email",
@@ -1449,7 +1449,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 8816,
+            "stars": 8821,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1509,7 +1509,7 @@
             "open_issues": 11,
             "owner": "kaifcodec",
             "repo": "user-scanner",
-            "stars": 5172,
+            "stars": 5188,
             "topics": [
               "cybersecurity",
               "cybersecurity-tools",
@@ -1548,7 +1548,7 @@
             "open_issues": 1,
             "owner": "KatrielMoses",
             "repo": "MailAccess",
-            "stars": 1526,
+            "stars": 1528,
             "topics": [
               "cybersecurity",
               "email",
@@ -1646,7 +1646,7 @@
             "open_issues": 156,
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 18020,
+            "stars": 18025,
             "topics": [
               "agregation",
               "footprint",
@@ -1716,7 +1716,7 @@
             "open_issues": 0,
             "owner": "atenreiro",
             "repo": "opensquat",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "blue-team",
               "cybersecurity",
@@ -1824,7 +1824,7 @@
             "id": 1336968795,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T03:53:26Z",
+            "last_commit": "2026-10-03T10:55:46Z",
             "open_issues": 0,
             "owner": "WhiteBite",
             "repo": "Domain-Hunter",
@@ -2106,7 +2106,7 @@
             "open_issues": 2,
             "owner": "aydinnyunus",
             "repo": "exifLooter",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "bug-bounty",
               "bugbounty",
@@ -2146,10 +2146,10 @@
             "language": "Python",
             "license": "Unlicense",
             "last_commit": "2026-09-27T22:09:13Z",
-            "open_issues": 2673,
+            "open_issues": 2676,
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 195067,
+            "stars": 195153,
             "topics": [
               "cli",
               "downloader",
@@ -2295,7 +2295,7 @@
             "open_issues": 395,
             "owner": "dgtlmoon",
             "repo": "changedetection.io",
-            "stars": 34746,
+            "stars": 34749,
             "topics": [
               "back-in-stock",
               "change-alert",
@@ -2337,7 +2337,7 @@
             "open_issues": 0,
             "owner": "GeiserX",
             "repo": "Wayback-Diff",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "change-detection",
               "diff",
@@ -2475,7 +2475,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68292,
+            "stars": 68298,
             "topics": [
               "blocker",
               "browser-extension",
@@ -2501,7 +2501,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T03:51:14Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Moresyl",
             "repo": "metaclean",
             "stars": 17,
@@ -2544,7 +2544,7 @@
             "open_issues": 244,
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15247,
+            "stars": 15249,
             "topics": [
               "attack-surfaces",
               "dns",
@@ -2674,10 +2674,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-04-13T19:43:06Z",
-            "open_issues": 323,
+            "open_issues": 325,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22737,
+            "stars": 22742,
             "topics": [
               "attacksurface",
               "cti",
@@ -2718,7 +2718,7 @@
             "open_issues": 7,
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17767,
+            "stars": 17770,
             "topics": [
               "blueteam",
               "discovery",
@@ -2750,7 +2750,7 @@
             "open_issues": 300,
             "owner": "crowdsecurity",
             "repo": "crowdsec",
-            "stars": 15049,
+            "stars": 15052,
             "topics": [
               "anti-bot",
               "blocklist",
@@ -2790,7 +2790,7 @@
             "open_issues": 60,
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13248,
+            "stars": 13249,
             "topics": [
               "crawler",
               "information-gathering",
@@ -2858,7 +2858,7 @@
             "open_issues": 48,
             "owner": "tomnomnom",
             "repo": "waybackurls",
-            "stars": 4563,
+            "stars": 4564,
             "topics": []
           },
           "first_seen": "2026-08-28T19:19:01.838Z"
@@ -2921,7 +2921,7 @@
             "open_issues": 54,
             "owner": "kpcyrd",
             "repo": "sn0int",
-            "stars": 2549,
+            "stars": 2551,
             "topics": [
               "bug-bounty",
               "certificate-transparency",
@@ -3288,7 +3288,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T04:33:45Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "NovaCode37",
             "repo": "Prism-platform",
             "stars": 238,
@@ -3586,7 +3586,7 @@
             "open_issues": 86,
             "owner": "s-rah",
             "repo": "onionscan",
-            "stars": 3306,
+            "stars": 3307,
             "topics": []
           },
           "first_seen": "2026-08-28T19:19:01.838Z"
@@ -3607,7 +3607,7 @@
             "open_issues": 101,
             "owner": "taranis-ai",
             "repo": "taranis-ai",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -3634,7 +3634,7 @@
             "open_issues": 1,
             "owner": "KatrielMoses",
             "repo": "voidaccess",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "ai",
               "cybersecurity",
@@ -3663,7 +3663,7 @@
             "id": 948283347,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T23:40:17Z",
+            "last_commit": "2026-10-03T05:05:33Z",
             "open_issues": 0,
             "owner": "spmedia",
             "repo": "Threat-Actor-Usernames-Scrape",
@@ -4086,11 +4086,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:19:08Z",
+            "last_commit": "2026-10-03T11:38:31Z",
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73902,
             "topics": []
           },
           "first_seen": "2026-08-28T19:19:01.838Z"
@@ -4135,7 +4135,7 @@
             "open_issues": 42,
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22441,
+            "stars": 22444,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4170,7 +4170,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17186,
+            "stars": 17190,
             "topics": [
               "awesome",
               "hacking"
@@ -4191,7 +4191,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-11T02:00:26Z",
-            "open_issues": 350,
+            "open_issues": 349,
             "owner": "sbilly",
             "repo": "awesome-security",
             "stars": 14930,
@@ -4259,7 +4259,7 @@
             "open_issues": 70,
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11881,
+            "stars": 11882,
             "topics": [
               "awesome",
               "ctf",
@@ -4285,7 +4285,7 @@
             "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10694,
+            "stars": 10695,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4311,7 +4311,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10579,
+            "stars": 10580,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4334,11 +4334,11 @@
             "id": 512269935,
             "language": "Astro",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-02T20:46:31Z",
+            "last_commit": "2026-10-03T05:16:48Z",
             "open_issues": 2,
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9920,
+            "stars": 9921,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4396,7 +4396,7 @@
             "open_issues": 4,
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 6001,
+            "stars": 6002,
             "topics": [
               "blueteam",
               "forensics",
@@ -4595,7 +4595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:59:24.676Z",
+    "last_updated": "2026-10-03T12:19:12.801Z",
     "original_repository_info": {
       "archived": false,
       "description": ":scream: A curated list of amazingly awesome OSINT",
@@ -4607,7 +4607,7 @@
       "open_issues": 2,
       "owner": "jivoi",
       "repo": "awesome-osint",
-      "stars": 29877,
+      "stars": 29882,
       "topics": [
         "awesome-list",
         "osint",
